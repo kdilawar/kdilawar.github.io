@@ -35,14 +35,14 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics: UA-58023186-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
   github: kdilawar
-  stackoverflow: https://stackoverflow.com/users/4398591/kdilawar
-  linkedin: karandilawar
+  stackoverflow: kdilawar
+  linkedin: kdilawar
   instagram: #username
   lastfm: #username
   tumblr: #username
