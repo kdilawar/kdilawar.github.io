@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Karan Dilawar
 locale:           en_US
-url:              
+url:              http://kdilawar.me/
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Karan Dilawar
+  avatar: bio-photo-2.jpg
+  bio: "Software Developer!"
   email: 
   disqus-shortname: 
   twitter: #username
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  github: kdilawar
+  stackoverflow: https://stackoverflow.com/users/4398591/kdilawar
+  linkedin: karandilawar
   instagram: #username
   lastfm: #username
   tumblr: #username
