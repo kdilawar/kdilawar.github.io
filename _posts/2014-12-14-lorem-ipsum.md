@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test post
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed felis semper, semper sapien at, accumsan nisi. Duis consequat id odio tempor consequat. Nullam luctus..."
+title: Lorem Ipsum
+excerpt: "Nunc vestibulum quam quis pellentesque ornare. Sed scelerisque eleifend ultricies. Integer nec pharetra tellus. Cras congue a diam sed fermentum. Nunc dignissim, mauris a rhoncus blandit..."
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:

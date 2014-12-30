@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test post
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed felis semper, semper sapien at, accumsan nisi. Duis consequat id odio tempor consequat. Nullam luctus..."
+title: Magna Odio
+excerpt: "Suspendisse quis blandit mauris. Aenean et bibendum ante, et aliquam magna. In at elit erat. Nulla non semper orci, id faucibus mauris. Sed laoreet neque lectus..."
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:
