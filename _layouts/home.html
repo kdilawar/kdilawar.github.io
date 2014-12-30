@@ -38,7 +38,8 @@
       {% else %}
         <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-        <p>{{ page.date | date: '%B %d, %Y' }}</p>
+        <p>{{ page.date | date_to_string }}</p>
+        <p>{{ post.date | date_to_string }}</p>
       {% endif %}
     </article>
     {% endfor %}
